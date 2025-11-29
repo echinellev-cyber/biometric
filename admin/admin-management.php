@@ -494,13 +494,12 @@ try {
             color: black;
         }
 
-        /* Records Container - CHANGED TO TRANSPARENT LIKE ADMIN FORM */
+        /* Records Container */
         .records-container {
-            background: rgba(255, 255, 255, 0.2);
-            backdrop-filter: blur(10px);
-            border-radius: 8px;
+            background: #f9f9ff;
+            border-radius: 12px;
             padding: 25px;
-            border: 1px solid rgba(255, 255, 255, 0.3);
+            border: 1px solid #e6e9f0;
         }
 
         .section-header {
@@ -541,13 +540,12 @@ try {
             margin-top: 20px;
         }
 
-        /* Admin Card - CHANGED TO TRANSPARENT LIKE ADMIN FORM */
         .admin-card {
-            background: rgba(255, 255, 255, 0.2);
-            backdrop-filter: blur(10px);
-            border-radius: 8px;
+            background: white;
+            border-radius: 12px;
             padding: 20px;
-            border: 1px solid rgba(255, 255, 255, 0.3);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            border: 1px solid #e6e9f0;
             transition: all 0.3s ease;
         }
 
@@ -562,7 +560,7 @@ try {
             gap: 15px;
             margin-bottom: 20px;
             padding-bottom: 15px;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+            border-bottom: 1px solid #f0f0f0;
         }
 
         .admin-avatar {
