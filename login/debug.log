@@ -1,0 +1,93 @@
+Array
+(
+)
+2025-08-31 17:53:26 - Registration attempt
+POST data: Array
+(
+    [fullName] => wsws
+    [username] => swsws
+    [email] => clove@gmail.com
+    [role] => sas_director
+    [password] => swswswsw
+    [confirmPassword] => swswswsw
+    [agreeTerms] => 1
+)
+
+2025-08-31 17:53:54 - Registration attempt
+POST data: Array
+(
+    [fullName] => wsws
+    [username] => swsws
+    [email] => clove@gmail.com
+    [role] => sas_director
+    [password] => swsw1234
+    [confirmPassword] => swsw1234
+    [agreeTerms] => 1
+)
+
+2025-08-31 17:54:01 - Registration attempt
+POST data: Array
+(
+    [fullName] => wsws
+    [username] => swsws
+    [email] => clove@gmail.com
+    [role] => sas_director
+    [password] => Swsw1234
+    [confirmPassword] => Swsw1234
+    [agreeTerms] => 1
+)
+
+Generated hash: $2y$10$IqyMd8jEDisZo.uv4pko3exU4hbPRUHHXM7ruvzCy5a90/xaYD4WO
+Successfully inserted admin with ID: 50
+2025-09-01 07:15:58 - Registration attempt
+POST data: Array
+(
+    [fullName] => Clove
+    [username] => clovee
+    [email] => clove@gmail.com
+    [role] => sas_director
+    [password] => clove123
+    [confirmPassword] => clove123
+    [agreeTerms] => 1
+)
+
+2025-09-01 07:16:08 - Registration attempt
+POST data: Array
+(
+    [fullName] => Clove
+    [username] => clovee
+    [email] => clove@gmail.com
+    [role] => sas_director
+    [password] => Clove123
+    [confirmPassword] => Clove123
+    [agreeTerms] => 1
+)
+
+Generated hash: $2y$10$MPFeuMrfJJL.egpnCbwLj.1nxpIIH0lACaijfdrR5X1Vn3SUwRdl2
+Successfully inserted admin with ID: 51
+2025-09-03 19:43:28 - Registration attempt
+POST data: Array
+(
+    [fullName] => Marimar
+    [username] => marimar
+    [email] => marimar@gmail.com
+    [role] => student_leader
+    [password] => marimar123
+    [confirmPassword] => marimar123
+    [agreeTerms] => 1
+)
+
+2025-09-03 19:43:39 - Registration attempt
+POST data: Array
+(
+    [fullName] => Marimar
+    [username] => marimar
+    [email] => marimar@gmail.com
+    [role] => student_leader
+    [password] => Marimar123
+    [confirmPassword] => Marimar123
+    [agreeTerms] => 1
+)
+
+Generated hash: $2y$10$5n0I7/c/78nYcL1JU1YFpe8qHn2ofqMfgcMA7H2MyDFvi09CDmBl2
+Successfully inserted admin with ID: 53
